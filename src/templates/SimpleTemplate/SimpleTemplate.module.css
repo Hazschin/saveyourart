@@ -1,0 +1,12 @@
+.main {
+
+    display: flex;
+    column-gap: 15px;
+    justify-content: space-evenly;
+}
+
+.mainContent {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

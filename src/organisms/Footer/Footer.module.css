@@ -1,0 +1,8 @@
+.footer {
+    background: rgba(0, 0, 0, 0.05);
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-weight: 600;
+    
+    padding: 15px 0;
+}

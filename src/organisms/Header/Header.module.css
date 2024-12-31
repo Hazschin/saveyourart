@@ -1,0 +1,28 @@
+.header{
+    position: relative;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.headerMenus{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background: #fff;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerLogo{
+    position: absolute;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

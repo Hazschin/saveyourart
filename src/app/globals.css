@@ -1,0 +1,9 @@
+:root {
+  --bodyBg: #eee;
+}
+
+body {
+  background: var(--bodyBg);
+  margin: 0;
+  padding: 0;
+}
